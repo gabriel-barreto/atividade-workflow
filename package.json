@@ -1,0 +1,37 @@
+{
+  "name": "atividade-workflow",
+  "version": "1.0.0",
+  "description": "atividade do modulo de workflow para o curso de certificacao bootstrap",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "lite-server /dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-barreto/atividade-workflow.git"
+  },
+  "keywords": [
+    "certificacao",
+    "bootstrap",
+    "bootstrap",
+    "gulp",
+    "sass"
+  ],
+  "author": "Gabriel Barreto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabriel-barreto/atividade-workflow/issues"
+  },
+  "homepage": "https://github.com/gabriel-barreto/atividade-workflow#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-strip-css-comments": "^1.2.0",
+    "gulp-uglifycss": "^1.0.8"
+  }
+}
